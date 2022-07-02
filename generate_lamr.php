@@ -96,7 +96,7 @@ while ($row = $data1->fetch_assoc()) {
 	</div>
 
 	<div id="print_area">
-	<p style="font-weight: bold;" align="center">LEARNER'S ACHIEVEMENT MONITORING REPORT</p>
+	<p style="font-weight: bold;" align="center">LEARNER'S ACHIEVEMENT MONITORING REPORTS</p>
 	
 	<table width="100%" style="margin-top: 5px;">
 		<tr>
