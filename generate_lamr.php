@@ -112,7 +112,7 @@ while ($row = $data1->fetch_assoc()) {
 			<td style="font-weight: bold;"><?php echo $uoc_batch_section;?></td>
 		</tr>
 		<tr>
-			<td style="background-color: powderblue;">Unit of Competency:</td>
+			<td style="background-color: powderblue;">Unit of Competency (Core):</td>
 			<td style="font-weight: bold;"><?php echo $uoc_description;?></td>
 		</tr>
 		<tr>

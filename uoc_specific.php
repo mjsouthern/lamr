@@ -62,7 +62,7 @@ while ($row = $data->fetch_assoc()) {
 
 
 	<hr>
-	<a href="uoc.php" style="text-decoration: underline; font-size:20px; font-weight: bold;">Unit of Competency</a> -> 
+	<a href="uoc.php" style="text-decoration: underline; font-size:20px; font-weight: bold;">Unit of Competency (Core)</a> -> 
 	<a href="uoc_specific.php?id=<?php echo $_SESSION['uoc_id'];?>" style="text-decoration: underline; font-size:20px; font-weight: bold;"><?php echo $description;?></h3></a>
 	<hr>
 
