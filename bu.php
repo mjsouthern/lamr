@@ -371,3 +371,20 @@ $pdf->Output('lamr.pdf', 'I');
 
             </table>
             ';
+
+                            <th colspan="3" align="center">Heading Column Span 5 Dynamic</th>
+                <th colspan="3">Heading Column Span 9 Dynamic</th>
+            </tr>
+
+            <tr align="center">
+                <th>span 2</th>
+                <th>span 2</th>
+                <th>span 2</th>
+                <th>span 2</th>
+                <th>span 2</th>
+                <th>span 2</th>
+            </tr>
+
+
+            </table>
+            ';
